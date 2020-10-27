@@ -2,3 +2,4 @@
 settings.py
 env/
 *.cfg
+__pycache__/
